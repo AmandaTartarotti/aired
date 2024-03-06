@@ -1,4 +1,4 @@
-# Airport Flight Managment System  (Grade: 18.9 / 20)
+# Airport Flight Managment System  (Grade: 19.6 / 20)
 
 A project was done in one month with @goncaloremelhe and @tomaspm05.
 Air transport is a crucial element in global connectivity, influencing mobility, trade, and cultural interactions. To enhance the understanding and planning of the complex flight network, this 
